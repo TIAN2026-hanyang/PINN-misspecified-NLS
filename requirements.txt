@@ -1,0 +1,5 @@
+GPU RTX 4060
+Pytorch 2.7.1+cu118
+Python 3.9.25
+DeepXDE 1.15.0
+NumPy 1.26.4
